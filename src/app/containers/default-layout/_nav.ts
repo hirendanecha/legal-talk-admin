@@ -11,12 +11,12 @@ export const navItems: INavData[] = [
     // }
   },
   {
-    name: 'Health Practitioner',
+    name: ' Attorneys',
     url: '/community',
     iconComponent: { name: 'cil-bookmark' },
   },
   {
-    name: 'Healing Topics',
+    name: 'Law Firm Pages',
     url: '/pages',
     iconComponent: { name: 'cil-layers' },
   },
