@@ -8,14 +8,14 @@ const routes: Routes = [
     path: '',
     component: CommunityComponent,
     data: {
-      title: 'Healing Topics',
+      title: 'Law Firm Pages',
     },
   },
   {
     path: 'edit/:id',
     component: EditCommunityComponent,
     data: {
-      title: 'Edit Topic',
+      title: 'Edit Law Firm',
     },
   },
 ];
